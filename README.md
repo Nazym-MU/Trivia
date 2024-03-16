@@ -1,39 +1,37 @@
-# Project 3 - *Trivia App*
+# Project 4 - *Trivia App*
 
 Submitted by: **Nazym Zhiyengaliyeva**
 
-**Trivia** is an app built in Swift that allows users to answer a series of multiple-choice questions and get the number of correctly-answered questions.
+**Trivia** is an app where users answer questions of different topics and receive feedback on how many questions were correct.
 
-Time spent: **8** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] User can view the current question and 4 different answers
-- [x] User can view the next question after tapping an answer
-- [x] User can answer at least 3 different questions
+- [x] User can view and answer at least 5 trivia questions.
+- [x] App retrieves question data from the Open Trivia Database API.
+- [x] Fetch a different set of questions if the user indicates they would like to reset the game.
+- [x] Users can see score after submitting all questions.
+- [x] True or False questions only have two options.
 
 
 The following **optional** features are implemented:
 
-- [ ] User can use the vertical orientation of the app on any device
-- [x] User can track the question they are on and how many questions are left
-- [x] User can see how many questions they got correct after answering all questions
-- [ ] User should be able to restart the game after they've finished answering all questions
+  
+- [ ] Allow the user to choose a specific category of questions.
+- [ ] Provide the user feedback on whether each question was correct before navigating to the next.
 
 
 ## Video Walkthrough
 
-[Guide]](https://youtube.com/shorts/2-NiL5uQ_d4?feature=share) .
+[Guide]](https://www.youtube.com/shorts/O3cwxlNlzQg) .
 
-## Notes
-
-I struggled with understanding how to connect UIButtons to actions and ensuring proper functionality, and this took a lot of time. Also ensuring the transitions between questions was hard.
 
 ## License
 
-    Copyright [2024]
+    Copyright [2024] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
